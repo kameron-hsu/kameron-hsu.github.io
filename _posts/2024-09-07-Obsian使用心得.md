@@ -1,0 +1,10 @@
+---
+layout: post
+title: Obsian使用心得
+date: 2024-09-06
+author: Kameron
+comments: true
+toc: 
+pinned:
+---
+这几年特别流行笔记软件，关注最多的可能就是notion和obsidian了，notion是纯云端，obsidian主打本地存储。因为网络各方面的原因，notion在国内使用非常不稳定
