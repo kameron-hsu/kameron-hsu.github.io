@@ -6,6 +6,5 @@ Author: Kameron
 tags:
 comments: "true"
 toc: "false"
-pinned: "false"
 ---
 试试没有标签的效果
