@@ -6,7 +6,7 @@ author: 南山客
 tags: [obsidian,notion]
 comments: true
 toc: false
-pinned: true
+pinned: false
 ---
 这几年特别流行笔记软件，关注最多的可能就是notion和obsidian了，notion是纯云端，obsidian主打本地存储。因为网络各方面的原因，notion在国内使用非常不稳定，所以很多人选择了osdian。Obsidian的社区非常活跃，主题和社区非常多，但是在国内也面临因为网络的问题，主题或者插件下载不成功。
 Obsidian的主题，个人觉得用的最好的是border，简约干净，深色模式看起来也非常的舒服；再说插件，我使用频率比较高的有这么几个：
