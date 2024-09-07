@@ -375,6 +375,22 @@ img {
       border-radius: 2px;
     }
   }
+ .site-blogname {
+    margin:0 auto;
+    display: block;
+    max-width: 200px;
+    max-height: 100px;
+
+    @include mobile {
+      max-width: 120px;
+      max-height: 60px;
+    }
+
+    img {
+      display: inline-block;
+      border-radius: 2px;
+    }
+  }
 }
 
 .site-name {
