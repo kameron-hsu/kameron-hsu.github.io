@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOFFER使用基础教程
+title: Obsidian使用心得
 date: 2024-09-07
 author: 南山客
 tags: [obsidian,notion]
