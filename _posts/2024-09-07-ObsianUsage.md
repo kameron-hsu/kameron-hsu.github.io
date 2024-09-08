@@ -2,7 +2,7 @@
 layout: post
 title: Obsidian使用心得
 date: 2024-09-07
-author: 南山客
+author: 山南客
 tags: [obsidian,notion]
 comments: true
 toc: false
@@ -14,4 +14,5 @@ Obsidian的主题，个人觉得用的最好的是border，简约干净，深色
 - checklist：可以将特定文件夹中的check显示在右边侧栏，结合日记是非常好用的待办；
 - 模板：日记、文件属性等可以写在模板里，这样每次用的时候就不需要重复写了；
 - 看板和白板：用的比较少，但是偶尔用一下还是不错的。
-无论使用审核软件做笔记，软件都是其次的，你的笔记才是最重要的。
+
+无论使用任何软件做笔记，软件都是其次的，你的笔记才是最重要的。
